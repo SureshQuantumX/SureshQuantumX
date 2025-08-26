@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I’m an experienced Software Developer specializi
 
 ## 🚀 About Me
 
-- **Profession:** Software Developer (Flutter Specialist)
-- **Location:** Bengaluru, Karnataka, India
-- **Experience:** 3+ years building cross-platform apps
+- **Profession:** Software Developer (Flutter Specialist)  
+- **Location:** Bengaluru, Karnataka, India  
+- **Experience:** 3+ years building cross-platform apps  
 
 I'm passionate about collaborating on exciting projects, solving real-world problems, and creating seamless user experiences. Let's connect and build something amazing together!
 
@@ -17,25 +17,21 @@ I'm passionate about collaborating on exciting projects, solving real-world prob
 ## 🛠️ Skills & Expertise
 
 - **Languages & Technologies:**  
-  - Flutter (Android, iOS, Web)  
-  - Dart  
-  - Java  
-  - Bloc  
-  - Firebase  
-  - Git  
-  - Figma
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+  ![Bloc](https://img.shields.io/badge/Bloc-0047AB?logo=flutter&logoColor=white)  
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
 
 - **Architecture & Patterns:**  
-  - Feature-first development  
-  - Clean code architecture
+  ✅ Feature-first development  
+  ✅ Clean code architecture  
 
 - **Specialties:**  
-  - Maps integration (MapMyIndia/Mappls)  
-  - Testing (Unit, Widget, Integration)  
-  - UI/UX design  
-  - Authentication  
-  - Localization  
-  - Payment gateway integration
+  🗺️ Maps integration (MapMyIndia/Mappls)  
+  🔄 State management  
 
 ---
 
@@ -63,7 +59,7 @@ Implemented authentication, movie rating & review, watchlist management, built a
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/suresh-v-22b09a211/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/suresh-v-22b09a211/)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:i.am.suresh.venkatamuni@gmail.com)
 
 ---
